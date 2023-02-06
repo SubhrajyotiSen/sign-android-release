@@ -1,6 +1,6 @@
 name: 'Sign Android release'
 description: 'An action to sign an Android release APK or AAB'
-author: 'r0adkll'
+author: 'SubhrajyotiSen'
 branding:
   icon: 'edit'
   color: 'orange'

@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r0adkll/sign-android-release.git"
+    "url": "git+https://github.com/SubhrajyotiSen/sign-android-release.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "r0adkll",
+  "author": "SubhrajyotiSen",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
